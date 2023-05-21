@@ -1,5 +1,5 @@
 ## 🐤 junior developer Shim DongHwan
-● 📨 Email : shim5013@naver.com <b/>
+● 📨 Email : shim5013@naver.com <br>
 ● 📋 Study Blog : https://blog.naver.com/shim5013 
 
 <!--
