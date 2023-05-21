@@ -1,5 +1,6 @@
 ## 🐤 junior developer Shim DongHwan
-
+● 📨 Email : shim5013@naver.com
+● 📋 Study Blog : https://blog.naver.com/shim5013 
 
 <!--
 **controller22/controller22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
