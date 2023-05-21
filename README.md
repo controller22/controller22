@@ -1,6 +1,7 @@
 ## 🐤 주니어 백엔드 개발자 심동환
+<br>
 ● 📨 Email : shim5013@naver.com <br>
-● 📋 Study Blog : https://blog.naver.com/shim5013 
+● 📋 Study Blog : https://blog.naver.com/shim5013 <br><br>
 
 <!--
 **controller22/controller22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
