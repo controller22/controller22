@@ -1,4 +1,4 @@
-## 🐤 junior developer Shim DongHwan
+## 🐤 주니어 백엔드 개발자 심동환
 ● 📨 Email : shim5013@naver.com <br>
 ● 📋 Study Blog : https://blog.naver.com/shim5013 
 
