@@ -1,4 +1,4 @@
-## 🐤 주니어 백엔드 개발자 심동환
+## 개발자 심동환
 <br>
 ● 📨 Email : shim5013@naver.com <br>
 ● 📋 Study Blog : https://blog.naver.com/shim5013 <br><br>
